@@ -1,2 +1,2 @@
 # ProjetosDio
-Esse reposítorio contém os projetos relativos ao Modulo de PowerBI.
+Esse reposítorio contém os projetos relativos ao módulo de PowerBI.
